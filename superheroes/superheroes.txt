@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Spiderman",
+    "nombreReal": "Peter Parker",
+    "edad": 26,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Radioactividad",
+    "poderes": [
+      "trapar paredes",
+      "sentido arácnido",
+      "super fuerza",
+      "agilidad"
+    ],
+    "aliados": [
+      "Ironman"
+    ],
+    "enemigos": [
+      "Duende Verde"
+    ]
+  },
+  {
+    "id": 3
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "La Avispa",
+    "nombreReal": "Janet Van Dyne",
+    "edad": 38,
+    "planetaOrigen": "Tierra",
+    "poderes": [
+      "Manipulacion de su Tamaño corporal",
+      "Rayos de energía electrica",
+      "Control telepatico"
+    ],
+    "aliados": [
+      "Ironman",
+      "Spiderman",
+      "Atman"
+    ],
+    "enemigos": [
+      "Turbellino"
+    ]
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Hulk",
+    "nombreReal": "Bruce Banner",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "devilidad": "Control mental",
+    "poderes": [
+      "Super fuerza",
+      "Regeneracion"
+    ],
+    "aliados": [
+      "Thor",
+      "Ironman"
+    ],
+    "enemigos": [
+      "Abominacion"
+    ]
+  }
+]
